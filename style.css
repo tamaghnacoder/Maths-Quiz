@@ -1,7 +1,6 @@
 body
 {
-	background-image: url("mth.jpg");
-    text-align: center;
+	background-color: red;
 }
 
 	.login_div1 , .login_div2
@@ -44,3 +43,4 @@ h1{
 	color: yellow;
 	margin-top: 8%;
 }
+
